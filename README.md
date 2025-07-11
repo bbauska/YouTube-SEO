@@ -150,10 +150,10 @@
 
 <table>
   <thead>
-    <tr>
+    <th>
 	  <td>Mistake</td>
 	  <td>Impact</td>
-	</tr>
+	</th>
   </thead>
   <tbody>
     <tr>
