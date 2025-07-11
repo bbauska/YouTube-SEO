@@ -98,27 +98,36 @@
 
 <p><b>Avoids "Dead Sub" Problem</b>: Channels with large numbers of inactive subscribers can hurt performance metrics.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>🧱 Foundations of Sustainable Subscriber Growth</h1>
-
-  - 1. Consistent Upload Schedule
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ol type="1">
+  <li>1. Consistent Upload Schedule</li>
+</ol>
 
 <p>Why it matters: People stick around for reliability.</p>
 
 <p>Tip: Start small — even once a week is fine if it's consistent.</p>
 
-  - 2. Niche Focus with Room to Grow
+<ol type="1" start="2">
+  <li>2. Niche Focus with Room to Grow</li>
+</ol>
 
 <p>Why it matters: Subscribers expect a certain type of content.</p>
 
 <p>Tip: Don't jump around too much (e.g., gaming, then cooking, then tech) unless it's clearly branded or connected.</p>
 
-  - 3. High-Quality, Evergreen Content
+<ol type="1" start="3">
+  <li>3. High-Quality, Evergreen Content</li>
+</ol>
 
 <p>Evergreen = Always relevant.</p>
 
 <p>Why it matters: New subs keep finding you even months later.</p>
 
-  - 4. Strong Community Interaction
+<ol type="1" start="4">
+  <li>4. Strong Community Interaction</li>
+</ol>
 
 <p>Respond to comments.</p>
 
