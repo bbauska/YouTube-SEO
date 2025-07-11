@@ -1,75 +1,5 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ index.html of bbauska/youtube-subs making youtube-subs.bauska.org ~~~~~~~~~~~~-->
-<head>
-  <!-- meta viewport, title, desc, robot for SEO -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="robots" content="index, follow">
-  <meta name="author" content="Brian Bauska">
-  <meta name="title" content="YouTube Subscribers">
-  <meta name="date" content="Friday, July 11th, 2025"/>
-  <meta name="revised" content="Friday, July 11th, 2025"/>
-  <meta name="description" content="500 word description of youtube subscribers.">
-  <meta name="keywords" content="YouTube,Subs,HTML,Template,Title,Keywords,Silus,Gaming,World">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-
-  <!-- Twitter Meta -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@bbauska" />
-  <meta name="twitter:creator" content="@bbauska" />
-  
-  <!-- Open Graph Meta data -->
-  <meta property="og:url" content="https://youtube-subs.bauska.org/" />
-  <!-- The type of object you’re sharing. (e.g., article, website, video.movie, etc.) -->
-  <meta property="og:type" content="website" />
-  <meta property="og:locale" content="en_US" />
-  <meta property="og:locale:alternate" content="es_GB" />
-  <meta property="og:locale:alternate" content="fr_FR" />
-  <meta property="og:site_name" content="YouTube Subscribers" />
-  <meta property="og:title" content="YouTube Subscribers" />
-  <meta property="og:description" content="Open graph description of youtube subscribers." />
-  <meta property="og:image" content="http://meta.bauska.org/images/myicon-template.jpg" />
-  <title>Basic HTML Template</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
-  <link rel="canonical" href="https://youtube-subs.bauska.org">
-  <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico"/>
-  
-  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/styles/default.min.css">
-  <script src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js"></script>
-
-  <link rel="stylesheet" href="./css/style.css">
-  <!-- and it's easy to individually load SOME additional languages in javascript -->
-  <script src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/languages/go.min.js"></script>
-
-  <!-- Facebook image must be at least 600x315px -->
-  <meta property="og:image" content="https://www.youtube-subs.bauska.org/images/image.jpg" />
-  <meta property="og:description" content="Gaining and sustaining YouTube Subsribers." />
-  <meta property="og:site_name" content="YouTube Subscribers" />
-  <meta property="fb:admins" content="https://www.facebook.com/help/211813265517027/?helpref=uf_share" />
-
-  <!-- favicon images -->
-  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
-</head>
-
-<body>
-
+<!--~~~~~~~~~~~~~ readme.md of bbauska/youtube-subs ~~~~~~~~~~~~-->
 <h1>🎯 1. Know Your Niche and Audience</h1>
 <ul>
   <li>Define your niche: e.g., gaming, tutorials, fitness, tech reviews, lifestyle.</li>
@@ -263,5 +193,3 @@ unless it's clearly branded or connected.</p>
   </tbody>
 </table>
 
-</body>
-</html>
