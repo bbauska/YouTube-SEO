@@ -142,7 +142,7 @@ inactive subscribers can hurt performance metrics.</li>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>🧠 Smart Strategies for Retention</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<ul type="A">
+<ol type="A">
   <li>A. Onboarding New Subscribers
     <ul>
 	  <li>Create a <b>channel trailer</b> that explains your vibe.</li>
