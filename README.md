@@ -1,4 +1,4 @@
-# YouTube-Subs
+# YouTube-Subs - stay humble.
 How to gain new YouTube subscribers.
 
 <h1>🎯 1. Know Your Niche and Audience</h1>
