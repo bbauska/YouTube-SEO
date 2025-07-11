@@ -148,9 +148,30 @@
 
 <h1>📉 Common Mistakes That Hurt Sustainability</h1>
 
-Mistake										Impact
-Infrequent or random uploads				Viewers forget you
-Switching content style/genre too often		Confuses subscribers
-Ignoring analytics							Missed opportunities
-Chasing trends without value				Viewers lose trust
+<table>
+  <thead>
+    <tr>
+	  <td>Mistake</td>
+	  <td>Impact</td>
+	</tr>
+  </thead>
+  <tbody>
+    <tr>
+	  <td>Infrequent or random uploads</td>
+	  <td>Viewers forget you</td>
+	</tr>
+	<tr>
+	  <td>Switching content style/genre too often</td>
+	  <td>Confuses subscribers</td>
+	</tr>
+	<tr>
+      <td>Ignoring analytics</td>
+	  <td>Missed opportunities</td>
+	</tr>
+	<tr>
+      <td>Chasing trends without value</td>
+      <td>Viewers lose trust</td>
+	</tr>
+  </tbody>
+</table>
 
