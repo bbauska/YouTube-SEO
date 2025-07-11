@@ -68,8 +68,7 @@
   <link rel="manifest" href="/manifest.json">
 </head>
 
-
-
+<body>
 
 <h1>🎯 1. Know Your Niche and Audience</h1>
 <ul>
